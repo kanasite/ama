@@ -2,9 +2,11 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
-I get a lot of questions by email. This way anyone can read the answer!
+My name is Dan Abramov.  
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
+I'm known for contributing to projects in React ecosystem and creating [React Hot Loader](https://github.com/gaearon/react-hot-loader) and [Redux](https://github.com/rackt/redux).  
+This AMA is a good place to ask me personal or work-related questions.  
+Ask me anything!
 
 -
 
