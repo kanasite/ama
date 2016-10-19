@@ -2,9 +2,8 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
-My name is Dan Abramov.  
+My name is Kyle Yee. I'm also known as kanasite
 
-I'm known for contributing to projects in React ecosystem and creating [React Hot Loader](https://github.com/gaearon/react-hot-loader) and [Redux](https://github.com/rackt/redux).  
 This AMA is a good place to ask me personal or work-related questions.  
 Ask me anything!
 
